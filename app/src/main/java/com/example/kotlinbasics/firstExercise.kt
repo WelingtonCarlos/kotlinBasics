@@ -5,9 +5,11 @@ fun main () {
     var mutable = 25
 
     println("$constante tem $mutable anos!")
+    // Welington tem 25 anos!
 
-    var mutableString = 26
+    mutable = 26
 
     println("$constante tem $mutable anos!")
+    // Welington tem 26 anos!
 
 }

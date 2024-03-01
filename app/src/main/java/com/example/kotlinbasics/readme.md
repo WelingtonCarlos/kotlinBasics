@@ -6,3 +6,5 @@
       - name = "Carlos".. ERRADO. o Val não permite.
     - exemplo: var age = 25. A idade poderá mudar. Caso eu chame a variável age e atribua um novo valor o valor dela irá mudar.
       - age = 26. CERTO. o valor 26 foi atribuído.
+
+-- no arquivo firstExercise estará uma exemplificação.
